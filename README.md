@@ -29,14 +29,14 @@ The main screen where users perform exercises:
 - Calls out exercise details using text-to-speech when the play button is pressed.
 - Success modal and confetti animation after all exercises are completed.
 - Warning if users skip exercises before completion.
-  <img src="./app_screenshot/list.jpeg" alt="Exercise Screen" height="400"/>
+  <img src="./app_screenshots/list.jpeg" alt="Exercise Screen" height="400"/>
 
 ### History Screen
 
 - Displays all completed exercise sessions.
 - Sessions are sorted by date with labels like "Today", "Last Month", etc.
 - Each session contains a list of exercises performed, along with the date and time.
-  <img src="./app_screenshot/history.jpeg" alt="History Screen" height="400"/>
+  <img src="./app_screenshots/history.jpeg" alt="History Screen" height="400"/>
 
 ## Installation
 
